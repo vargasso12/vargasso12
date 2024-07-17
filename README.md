@@ -18,7 +18,7 @@ I'm Vargasso, and this is - My space -
 ---
 > keep trying, until unconsciousness
 
-- :)
+ :)
 
 
 <!--
