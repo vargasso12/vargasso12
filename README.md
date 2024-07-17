@@ -1,6 +1,10 @@
 ## Hi there 🦧
 
-sdfsd
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.bing.com/images/search?view=detailV2&ccid=Ue5ZIGxE&id=6020098822D647CE9F558D8C7DC2AB72D34952F8&thid=OIP.Ue5ZIGxEMzXf6M-kRvC5KAHaEp&mediaurl=https%3a%2f%2fwww.mmobomb.com%2ffile%2f2015%2f06%2fdarkorbit.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.51ee59206c443335dfe8cfa446f0b928%3frik%3d%252bFJJ03Krwn2MjQ%26pid%3dImgRaw%26r%3d0&exph=824&expw=1315&q=darkorbit+venom+mmo&simid=608051315603162976&FORM=IRPRST&ck=35B7174EEACECDBAF84FDB753EBCBCC0&selectedIndex=49&itb=0&ajaxhist=0&ajaxserp=0">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.bing.com/images/search?view=detailV2&ccid=jWBcJ3r9&id=0118B58FB1CC8620091E065DDF4B67D4F77D0C38&thid=OIP.jWBcJ3r92gTDx1nYLAaLbgHaDv&mediaurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ff5%2F0a%2F5f%2Ff50a5fd34f9d9f35097f7b57c3d08e43.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.8d605c277afdda04c3c759d82c068b6e%3Frik%3DOAx999RnS99dBg%26pid%3DImgRaw%26r%3D0&exph=506&expw=1000&q=darkorbit+venom+mmo&form=IRPRST&ck=048ECD8CA2AABEEA87ACCE48B102FDBC&selectedindex=8&itb=0&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_c81QVBOU*cp_BCEC595F1DA6868209DB4691A7F00622*mid_1B99917AF1CC1C72F24225F1D16855E33773C901*thid_OIP.c81QVBOUdLHexs1KMcACQgFNC7&vt=0&sim=11&iss=VSI&simid=608013300855697607&ajaxhist=0&ajaxserp=0">
+ <img alt="YOUR-ALT-TEXT" src="(https://www.bing.com/images/search?view=detailV2&ccid=ZYQOcd90&id=DD8A011815C0476105D17CF9A7B4B97AD45B29FF&thid=OIP.ZYQOcd905iHQ1ZYgqeg-2QHaDq&mediaurl=https%3a%2f%2fwww.zonammorpg.com%2fwp-content%2fuploads%2f2011%2f11%2fDarkOrbit-1620x800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.65840e71df74e621d0d59620a9e83ed9%3frik%3d%252fylb1Hq5tKf5fA%26pid%3dImgRaw%26r%3d0&exph=800&expw=1620&q=darkorbit+venom+mmo&simid=608023952401508060&FORM=IRPRST&ck=0929829D24E1D62FCC18E289E9A02CDE&selectedIndex=55&itb=0&ajaxhist=0&ajaxserp=0)">
+</picture>
 
 
 <!--
