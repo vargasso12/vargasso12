@@ -3,9 +3,7 @@
 I'm Vargasso, and this is - My space -
 
 <details>
-<summary> My top languages 
-
-</summary>
+<summary> My top languages </summary>
   
 | Rank | Languages   |
 |-----:|-------------|
@@ -16,6 +14,11 @@ I'm Vargasso, and this is - My space -
 |     5| Visual basic|
 
 </details>
+
+---
+> keep trying, until unconsciousness
+
+- :)
 
 
 <!--
