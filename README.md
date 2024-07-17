@@ -11,7 +11,7 @@ I'm Vargasso, and this is - My space -
 |     2| SQL         |
 |     3| DAX         |
 |     4| M           |
-|     5| Visual basic|
+|     5| VB          |
 
 </details>
 
