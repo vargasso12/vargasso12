@@ -2,6 +2,8 @@
 
 I'm Vargasso, and this is - My space -
 
+<details>
+  <summary> My top languages </summary>
 | Rank | Languages   |
 |-----:|-------------|
 |     1| Python      |
@@ -9,6 +11,9 @@ I'm Vargasso, and this is - My space -
 |     3| DAX         |
 |     4| M           |
 |     5| Visual basic|
+
+</details>
+
 
 <!--
 **vargasso12/vargasso12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
